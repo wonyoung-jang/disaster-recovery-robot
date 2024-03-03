@@ -2,7 +2,7 @@
 
 The Enhanced Disaster Recovery Robot is a sophisticated robotic simulation designed to assist in disaster recovery operations, specifically in earthquake-stricken areas. Using CoppeliaSim, the robot is programmed to navigate through complex environments, avoid obstacles, and locate survivors, providing an innovative approach to disaster response.
 
-<video controls src="assets/disaster_recovery_robot demo.mp4" title="Title"></video>
+![Disaster Recovery Robot Demo](assets/disaster_recovery_robot_demo.mp4)
 
 ## Table of Contents
 
